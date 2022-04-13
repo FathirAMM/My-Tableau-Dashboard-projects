@@ -9,3 +9,4 @@
 6.Averege yearly profit by region
 
 </pre>
+### Screenshot
