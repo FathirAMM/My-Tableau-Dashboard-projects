@@ -9,6 +9,7 @@
 
 
 </pre>
+Data souurce-https://github.com/stanley-george-joseph/Customer-Analysis-Tableau/blob/main/sales_06_FY2020-21.csv.zip
 #### Screenshot
 <img src="https://github.com/FathirAMM/My-Tableau-Dashboard-projects/blob/main/superstore%20sales%20analysis%20dashboard/Screenshot%20(62).png" />
   
