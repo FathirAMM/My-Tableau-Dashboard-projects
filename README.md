@@ -33,7 +33,7 @@
 
 
 
-### 1.  Super store sales data analysis
+### 2.  Super store sales data analysis
   #### Requirements
 <pre>
 1.Show Total sales by states
