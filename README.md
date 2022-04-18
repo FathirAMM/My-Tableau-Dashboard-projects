@@ -29,7 +29,7 @@
 
 </pre>
 #### Screenshot
-<img src="https://github.com/FathirAMM/My-Tableau-Dashboard-projects/blob/main/Walmart%20Retail%20sales%20Analysis%20Dashboard/Dashboard%201.png" alt="screenshot" />
+<img src="https://github.com/FathirAMM/My-Tableau-Dashboard-projects/blob/main/Walmart%20Retail%20sales%20Analysis%20Dashboard/Dashboaed%20updated.png" />
   
 
 
