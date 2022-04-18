@@ -61,7 +61,7 @@
 
 </pre>
 #### Screenshot
-<img src="https://github.com/FathirAMM/My-Tableau-Dashboard-projects/blob/main/covid19%20dashboard/Screenshot%20(63).png" />
+<img src="https://github.com/FathirAMM/My-Tableau-Dashboard-projects/blob/main/covid19%20dashboard/Screenshotupdated.png" />
   
 
 
